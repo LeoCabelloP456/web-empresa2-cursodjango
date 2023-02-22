@@ -1,0 +1,5 @@
+Descomprime esta carpeta en tu directorio CursoDjango:
+
+· En Windows	C:\CursoDjango
+· En Mac OS		/Users/tu_usuario/Documents/CursoDjango
+· En Linux 		/home/tu_usuario/CursoDjango
